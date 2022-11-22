@@ -4,4 +4,8 @@ git is light wight
 git is weight
 hello
 hi
+<<<<<<< HEAD
 git is easy
+=======
+git is hard
+>>>>>>> c4ae8f35c7bbd4db1b772310deca6d37a2f638d3
