@@ -5,6 +5,8 @@ git is weight
 hello
 hi
 git is easy
+<<<<<<< HEAD
 git is not cool
+=======
 git is hard
-git make what
+>>>>>>> 36bb530bcb83858cd38ed1b4d787085e87854737
