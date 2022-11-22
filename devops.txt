@@ -5,3 +5,4 @@ git is weight
 hello
 hi
 git is easy
+git is not cool
